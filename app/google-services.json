@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965046150587",
+    "project_id": "budget-companion",
+    "storage_bucket": "budget-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965046150587:android:196fadb3c5b690543ed09e",
+        "android_client_info": {
+          "package_name": "com.tonio.budgetcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965046150587-2a3pb07akchttss2ot9q1fuf3lp80g4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tonio.budgetcompanion",
+            "certificate_hash": "cbc6503f0f65e2bb003790b56b44e186f4bc6e0b"
+          }
+        },
+        {
+          "client_id": "965046150587-hvb795b1sgvt3qbl3cvu6pm9o9pcpemo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8psawBmS5HAaMevkCaaQuX8lia9GT2G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965046150587-hvb795b1sgvt3qbl3cvu6pm9o9pcpemo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
